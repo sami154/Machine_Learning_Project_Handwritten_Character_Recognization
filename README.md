@@ -1,4 +1,5 @@
 	PACKAGES Needed to run the code:
+	
 	1.	Numpy
 	2.	Pickle
 	3.	Scikit-learn
@@ -8,6 +9,7 @@
 	7.	Matplotlib (it is commented in the code, could be used to see graphs in train.py)
 
 	Number of files included:
+	
 	1.	Train.py
 	2.	Test.py
 	3.	Model: digit_recognition1.pth
@@ -15,6 +17,7 @@
 	5.	Data given by teacher for training: train_data.pkl and finalLabelsTrain.npy
 
 	To Run test.py (Note: There are 2 parts of the code)
+	
 	1.	For getting labels
 			Change directories in line number 33 and 34 (33: Model path, 34: test data). 
 			Run the code
@@ -25,6 +28,7 @@
 			Run the entire code to check the accuracy.
 
 	To Run train.py (Note there are 2 ways the code can be run)
+	
 	1.	To Run the train.py on Train data provided by teacher
 			Change directories in line number 21, 22, and 25 (21: train data, 22: train data label, 25: where you want to save the model).
 			Run the code
