@@ -1,4 +1,4 @@
-**About the Project **
+About the Project
 
 The machine learning code reads hand written characters, extracts features and trains the model. It recognizes a new character and also determines the accuracy. 
 
